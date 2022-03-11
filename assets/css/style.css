@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Moved tags a and p above "class" selectors */
 a {
     color: #ffffff;
     text-decoration: none;
